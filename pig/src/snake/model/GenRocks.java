@@ -12,7 +12,7 @@ public class GenRocks {
         for (int i = 0; i < 23; i++) {
             System.out.println();
             for (int j = 0; j < 25; j++) {
-//                System.out.print("  ");
+                System.out.print("  ");
                 if (rocks[i][j]) {
 
                     System.out.print("*");
